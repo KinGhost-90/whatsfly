@@ -7,7 +7,7 @@ toolchain go1.22.0
 require (
 	github.com/enriquebris/goconcurrentqueue v0.7.0
 	github.com/mdp/qrterminal/v3 v3.2.0
-	go.mau.fi/whatsmeow v0.0.0-20240327124018-350073db195c
+	go.mau.fi/whatsmeow v0.0.0-20240821142752-3d63c6fcc1a7
 	google.golang.org/protobuf v1.33.0
 	modernc.org/sqlite v1.29.2
 )
