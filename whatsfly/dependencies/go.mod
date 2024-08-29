@@ -1,6 +1,6 @@
 module hey.jude/hey
 
-go 1.21
+go 1.23
 
 toolchain go1.22.0
 
